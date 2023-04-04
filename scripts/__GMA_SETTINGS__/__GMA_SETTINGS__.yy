@@ -1,11 +1,11 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "rc4_test_string",
+  "name": "__GMA_SETTINGS__",
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "RC4_test",
-    "path": "folders/Libraries_test/RC4_test.yy",
+    "name": "GMAssert",
+    "path": "folders/Libraries_config/GMAssert.yy",
   },
 }

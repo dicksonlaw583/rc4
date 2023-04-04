@@ -1,1 +1,0 @@
-rc4_test_all();
