@@ -4,13 +4,13 @@
   "name": "rc4",
   "resources": [
     {"id":{"name":"rc4_test_all","path":"scripts/rc4_test_all/rc4_test_all.yy",},"order":1,},
+    {"id":{"name":"RC4_Functions","path":"scripts/RC4_Functions/RC4_Functions.yy",},"order":1,},
     {"id":{"name":"rc4_test_buffer","path":"scripts/rc4_test_buffer/rc4_test_buffer.yy",},"order":2,},
     {"id":{"name":"__GMA_BREAKPOINT__","path":"scripts/__GMA_BREAKPOINT__/__GMA_BREAKPOINT__.yy",},"order":0,},
     {"id":{"name":"GMAssert","path":"extensions/GMAssert/GMAssert.yy",},"order":0,},
     {"id":{"name":"rc4_test_string","path":"scripts/rc4_test_string/rc4_test_string.yy",},"order":3,},
     {"id":{"name":"rm_rc4_test","path":"rooms/rm_rc4_test/rm_rc4_test.yy",},"order":0,},
     {"id":{"name":"__GMA_SETTINGS__","path":"scripts/__GMA_SETTINGS__/__GMA_SETTINGS__.yy",},"order":1,},
-    {"id":{"name":"RC4_GML","path":"extensions/RC4_GML/RC4_GML.yy",},"order":0,},
   ],
   "Options": [
     {"name":"iOS","path":"options/ios/options_ios.yy",},
